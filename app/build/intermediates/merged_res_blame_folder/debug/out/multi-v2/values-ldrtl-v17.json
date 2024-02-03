@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sprotte.geolocator.demo.app-mergeDebugResources-60:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/transforms-3/933b6cf4ff195da1f3c968749f8eb0cc/transformed/jetified-AndroidResourceExtensions-1.7.10/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,88,137,176",
+                        "endColumns": "32,48,38,45",
+                        "endOffsets": "83,132,171,217"
+                    },
+                    "to": {
+                        "startLines": "2,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,365,414,453",
+                        "endColumns": "32,48,38,45",
+                        "endOffsets": "83,409,448,494"
+                    }
+                },
+                {
+                    "source": "/Users/user/.gradle/caches/transforms-3/9e0841b12a0be11600742c0870952609/transformed/material-1.10.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,224",
+                        "endColumns": "135,140",
+                        "endOffsets": "219,360"
+                    }
+                }
+            ]
+        }
+    ]
+}

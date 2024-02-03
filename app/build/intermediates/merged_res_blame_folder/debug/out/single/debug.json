@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/layout_fragment_map.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/drawable_bg_button.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/drawable_ic_twotone_location_on_48px.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/drawable/ic_twotone_location_on_48px.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/navigation_navigation_controller.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/navigation/navigation_controller.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/drawable_ic_baseline_add_24px.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/drawable/ic_baseline_add_24px.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/xml_network_config.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/xml/network_config.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/layout_activity_main.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/drawable_ic_baseline_my_location_24px.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/drawable/ic_baseline_my_location_24px.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-merged_res-62:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/mipmap-hdpi/ic_launcher.png"
+    }
+]

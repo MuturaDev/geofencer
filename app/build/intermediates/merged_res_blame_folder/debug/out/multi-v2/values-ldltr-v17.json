@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sprotte.geolocator.demo.app-mergeDebugResources-60:/values-ldltr-v17/values-ldltr-v17.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/transforms-3/933b6cf4ff195da1f3c968749f8eb0cc/transformed/jetified-AndroidResourceExtensions-1.7.10/res/values-ldltr-v17/values-ldltr-v17.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,89,136,174",
+                        "endColumns": "33,46,37,46",
+                        "endOffsets": "84,131,169,216"
+                    }
+                }
+            ]
+        }
+    ]
+}

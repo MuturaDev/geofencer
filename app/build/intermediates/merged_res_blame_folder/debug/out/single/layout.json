@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.sprotte.geolocator.demo.app-mergeDebugResources-61:/layout/fragment_map.xml",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.sprotte.geolocator.demo.app-mergeDebugResources-61:/layout/activity_main.xml",
+        "source": "com.sprotte.geolocator.demo.app-main-64:/layout/activity_main.xml"
+    }
+]

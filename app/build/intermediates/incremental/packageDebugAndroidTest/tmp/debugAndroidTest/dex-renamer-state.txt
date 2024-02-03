@@ -1,0 +1,7 @@
+#Wed Jan 17 12:23:31 EAT 2024
+base.0=/Users/user/Desktop/geofencer/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/user/Desktop/geofencer/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/14/classes.dex
+path.0=0/classes.dex
+path.1=14/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
